@@ -16,9 +16,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-      </main>
 
-      <div>
+        <div>
         <p>
           About Us
         </p>
@@ -37,6 +36,10 @@ export default function Home() {
           Our Training
         </p>
       </div>
+
+      </main>
+
+     
 
 
       <Footer />
