@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>The test site for me to test things at site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,6 +16,27 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
+
+      <div>
+        <p>
+          About Us
+        </p>
+      </div>
+
+
+      <div>
+        <p>
+          Join Us
+        </p>
+      </div>
+
+
+      <div>
+        <p>
+          Our Training
+        </p>
+      </div>
+
 
       <Footer />
     </div>
