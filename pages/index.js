@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+        <h1>Test site</h1>
       </Head>
 
       <main>

@@ -5,7 +5,7 @@ describe('sample test', () => {
 
   it('displays the resources text', () => {
     cy.get('h1')
-    .contains('The test site for me to test things at site');
+    .contains('Test site');
   })
   it('renders the Netlify logo image', () => {
     cy.get('img')
